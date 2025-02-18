@@ -22,7 +22,7 @@ This is my first Java project! 🎉 I built a simple Snake Game using Java and S
 ### Running the Game  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/snake-game-java.git
+   git clone https://github.com/Aryanplux/snake-game-java.git
    cd snake-game-java
 📧 Contact
 Have feedback or questions? Reach out to me at aryandhiman003@gmail.com
