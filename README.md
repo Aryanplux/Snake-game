@@ -5,7 +5,8 @@ This is my first Java project! 🎉 I built a simple Snake Game using Java and S
 ## 🎮 How to Play  
 - Use the **arrow keys** to move the snake.  
 - Eat the **red food** to grow.  
-- Avoid colliding with yourself or the walls—hitting them ends the game!  
+- Avoid colliding with yourself or the walls—hitting them ends the game!
+- "C:\Users\aryan\OneDrive\Pictures\Screenshots\Screenshot 2025-02-15 210759.png" 
 
 ## 🛠 Features  
 ✔️ Grid-based movement  
